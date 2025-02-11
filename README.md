@@ -1,5 +1,9 @@
 ## Hi there 👋
+👋 Hey there! I'm an indie cybersecurity researcher and ethical hacker, exploring the digital world one exploit at a time.
 
+🔐 Cybersecurity & Ethical Hacking – Passionate about securing systems, penetration testing, and understanding vulnerabilities.
+💻 Programming – Skilled in Python, C, and C++, using code to automate security analysis and build robust solutions.
+🐧 Linux Enthusiast – Power user of Kali Linux (Debian) for ethical hacking, system administration, and security testing.
 <!--
 **manaskhanger/ManasKhanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

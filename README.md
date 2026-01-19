@@ -1,4 +1,4 @@
-## Hi there  happy new year!!👋
+## Hi there  !!!👋
 👋 Hey there! I'm an indie cybersecurity researcher and ethical hacker, exploring the digital world one exploit at a time.
 
 🔐 Cybersecurity & Ethical Hacking – Passionate about securing systems, penetration testing, and understanding vulnerabilities.

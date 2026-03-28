@@ -28,7 +28,7 @@
 
 ### 🛰️ Cloud Removal using GAN
 
-Deep learning project using **GANs** for satellite image enhancement
+Deep learning project using GANs for satellite image enhancement
 
 ### 🚗 Lane Deviation Management System
 
@@ -47,14 +47,6 @@ Computer vision-based system for detecting lane drift
 Consistent problem solving and algorithm practice
 
 👉 https://github.com/manaskhanger/daily-coding
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manaskhanger&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 ---
 

@@ -1,20 +1,69 @@
-## Hi there  !!!👋
-👋 Hey there! I'm an indie cybersecurity researcher and ethical hacker, exploring the digital world one exploit at a time.
-Currently i am working on my project of Cloud Removal in satellite imagery using Generative Adversarial networks
-🔐 Cybersecurity & Ethical Hacking – Passionate about securing systems, penetration testing, and understanding vulnerabilities.
-💻 Programming – Skilled in Python, C, and C++, using code to automate security analysis and build robust solutions.
-🐧 Linux Enthusiast – Power user of Kali Linux (Debian) for ethical hacking, system administration, and security testing.
-<!--
-**manaskhanger/ManasKhanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Manas Khanger</h1>
+<h3 align="center">Cybersecurity Enthusiast | AI Explorer | Problem Solver</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
+- 🧠 Exploring **AI + Security (Adversarial ML)**
+- 💻 Strong in **Python, C, C++**
+- 🐧 Linux enthusiast (Kali Linux)
+- ⚡ Currently grinding **DSA daily**
+
+---
+
+## 🧠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,github" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🛰️ Cloud Removal using GAN
+- Deep learning project using **Generative Adversarial Networks**
+- Focus: Satellite imagery enhancement
+
+---
+
+### 🚗 Lane Deviation Management System
+- Detects lane deviation using computer vision
+- Focus: Safety + real-time processing
+
+---
+
+### 🔐 Cybersecurity Work
+- Penetration testing
+- Vulnerability analysis
+- Kali Linux workflows
+
+---
+
+## 📅 Daily DSA Grind
+📌 Practicing Data Structures & Algorithms daily  
+👉 [Check my progress](https://github.com/manaskhanger/daily-coding)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manaskhanger&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manaskhanger&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+- Advanced DSA
+- System Design Basics
+- Cybersecurity + AI integration
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/manaskhanger

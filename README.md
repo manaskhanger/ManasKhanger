@@ -1,52 +1,54 @@
-<h1 align="center">Hi 👋, I'm Manas Khanger</h1>
-<h3 align="center">Cybersecurity Enthusiast | AI Explorer | Problem Solver</h3>
+<h1 align="center">👾 Manas Khanger</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Explorer;AI+%2B+Security;Daily+DSA+Grind;Linux+Power+User" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
-- 🧠 Exploring **AI + Security (Adversarial ML)**
-- 💻 Strong in **Python, C, C++**
-- 🐧 Linux enthusiast (Kali Linux)
-- ⚡ Currently grinding **DSA daily**
+## 🎮 Player Stats
+
+```
+Role        : Cybersecurity Explorer
+Level       : 21
+Focus       : AI + Security
+XP          : Grinding DSA Daily
+Environment : Kali Linux
+```
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 Inventory (Tech Stack)
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,git,github" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🗺️ Active Quests
 
-### 🛰️ Cloud Removal using GAN
-- Deep learning project using **Generative Adversarial Networks**
-- Focus: Satellite imagery enhancement
-
----
-
-### 🚗 Lane Deviation Management System
-- Detects lane deviation using computer vision
-- Focus: Safety + real-time processing
+* 🛰️ Cloud Removal using GAN
+* 🚗 Lane Deviation Detection System
+* 🔐 Cybersecurity Experiments
+* 📅 Daily DSA Practice
 
 ---
 
-### 🔐 Cybersecurity Work
-- Penetration testing
-- Vulnerability analysis
-- Kali Linux workflows
+## 🧠 Skill Tree
+
+```
+[✔] Python
+[✔] C / C++
+[✔] Linux
+[✔] Cybersecurity Basics
+[ ] Advanced Exploitation
+[ ] System Design
+```
 
 ---
 
-## 📅 Daily DSA Grind
-📌 Practicing Data Structures & Algorithms daily  
-👉 [Check my progress](https://github.com/manaskhanger/daily-coding)
-
----
-
-## 📊 GitHub Stats
+## 📊 Stats Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manaskhanger&show_icons=true&theme=tokyonight" />
@@ -58,12 +60,22 @@
 
 ---
 
-## 🎯 Current Focus
-- Advanced DSA
-- System Design Basics
-- Cybersecurity + AI integration
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/manaskhanger/manaskhanger/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/manaskhanger
+## 🎯 Current Mission
+
+* Become strong in Data Structures & Algorithms
+* Master cybersecurity fundamentals
+* Build real-world AI + security systems
+
+---
+
+## 📡 Connect
+
+* 🌐 GitHub: https://github.com/manaskhanger

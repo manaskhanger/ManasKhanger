@@ -58,6 +58,14 @@ Consistent problem solving and algorithm practice
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/manaskhanger/manaskhanger/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 * Strengthening DSA & problem solving
